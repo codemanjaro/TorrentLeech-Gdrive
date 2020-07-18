@@ -21,7 +21,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### The Easy Way (Fork this repo and tap on deploy button)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameron/TorrentLeech-Gdrive/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/codemanjaro/TorrentLeech-Gdrive/tree/master)
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
